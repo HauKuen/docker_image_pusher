@@ -1,1 +1,2 @@
-xhofe/alist:v3.40.0
+--platform linux/amd64 xhofe/alist:v3.40.0
+--platform linux/arm/v6 xhofe/alist:v3.40.0
